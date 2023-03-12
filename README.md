@@ -3,19 +3,16 @@
 
 ### Hi there 👋, My name is Minhazur Rahman Akash
 #### I am Full stack web developer
-![I am Full stack web developer](https://i.ibb.co/VpqJM96/Beige-Brown-Personal-Brand-Linkedin-Banner.png)
+![I am Frontend web developer](https://i.ibb.co/VpqJM96/Beige-Brown-Personal-Brand-Linkedin-Banner.png)
 
-I am studying in my final year in Computer Science and Technology at Dhaka
-Polytechnic Institute. I love coding. I've done half a dozen projects so far. I want to
-have an environment in my career where I can serve my best and learn new things or
-technology all the time. On the other hand, I also like sports a lot. When I got tired of
+I am a passionate web developer. I love coding. On the other hand, I also like sports a lot. When I got tired of
 coding, I refreshed myself by listening to music for a while. It's always nice to learn
 about new technologies.
 
 Skills: HTML / CSS / Bootstrap / Tailwind / Javascript / ReactJs / NodeJs / ExpressJs / MongoDb / Firebase / JWT
 
-- 🔭 I’m currently working on Mern stack Project 
-- 🌱 I’m currently learning Mern Stack Advanced 
+- 🔭 I’m currently working on ReactJs/NectJs Frontend Project.
+- 🌱 I’m focused on learning Mern Stack.
 - 💬 Ask me about Web Development 
 
 
